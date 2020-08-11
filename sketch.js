@@ -85,7 +85,7 @@ function draw() {
   if(bgImg)
   background(bgImg);
   textSize(20);
-  fill("white");
+  fill(150,134,225);
   text("score:" +score,950,40 );
   textSize(15);
   fill("white");
