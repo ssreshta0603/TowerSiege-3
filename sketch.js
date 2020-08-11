@@ -85,10 +85,10 @@ function draw() {
   if(bgImg)
   background(bgImg);
   textSize(20);
-  fill(150,134,225);
+  fill("blue");
   text("score:" +score,950,40 );
   textSize(15);
-  fill("white");
+  fill("blue");
   text("press space to get another chance!!!",820,390 );
   textSize(25);
   fill("Orange");
